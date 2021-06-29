@@ -1,4 +1,4 @@
-var syimbolUSD = "Rp";
+  var syimbolUSD = "Rp";
   var desimal = ".";
   var batasRupiah = ".";
   var nolBelakang = 0;
@@ -1927,8 +1927,7 @@ JSON || (JSON = {});
       return false;
     } else if ($("#alamat-lengkap").val() == "") {
       $("#alamat-lengkap").focus();
-      return false;
-    }  
+      return false; 
     } else {
       var walink = 'https://api.whatsapp.com/send';
       var nomorAdmin = 6289677337414;
