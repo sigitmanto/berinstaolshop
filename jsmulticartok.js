@@ -1930,7 +1930,7 @@ JSON || (JSON = {});
       return false; 
     } else {
       var walink = 'https://api.whatsapp.com/send';
-      var nomorAdmin = 6289677337414;
+      var nomorAdmin = 6285156803687;
       var nama = $("#nama-lengkap").val();
       var nomorWA = $("#nomor-wa").val();
       var gmail = $("#gmail").val();
